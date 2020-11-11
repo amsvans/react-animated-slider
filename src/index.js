@@ -52,7 +52,6 @@ class Slider extends React.PureComponent {
 	}
 
 	componentDidMount() {
-    console.log('testing working');
 		this.setupAutoplay();
 	}
 
